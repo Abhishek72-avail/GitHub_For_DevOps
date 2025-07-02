@@ -1,5 +1,11 @@
 # DevOps Portfolio Project
 
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=githubactions" />
+  <img src="https://img.shields.io/badge/Hosted%20On-AWS%20S3-orange?logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Built%20With-HTML%2FCSS%2FJS-yellow?logo=html5" />
+</p>
+
 A complete DevOps pipeline project that demonstrates automated deployment of a personal portfolio website using Git, GitHub Actions, and AWS S3 static hosting.
 
 ## 🚀 Project Overview
